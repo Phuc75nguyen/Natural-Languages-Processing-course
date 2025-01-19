@@ -4,6 +4,6 @@ Và cuối cùng là đồ án môn học (Viết Chương trình hỏi đáp d�
 
 
 
-In this repositories, we have both thoeries and pratical excersises when studying NLP at my university PTIT HCM
+In these repositories, we have both theories and practical exercises when studying NLP at my university PTIT HCM
 
-Then, we're gonna do the project "Program a questioning and answering based on GPT-2 api
+Then, we're gonna do the project "Program a questioning and answering based on GPT-2 API
