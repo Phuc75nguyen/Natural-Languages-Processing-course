@@ -1,3 +1,6 @@
+#Bài 1: tìm hiểu thuật toán Viterbi (HMM trong phần Part of Speech "POS")
+
+
 import numpy as np
 
 # Define the components of the HMM
